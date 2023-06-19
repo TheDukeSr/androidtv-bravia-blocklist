@@ -1,6 +1,6 @@
 ! Block diverse Browser Edge trackers.
-127.0.0.1 pipe.aria.microsoft.com
-127.0.0.1 assets.msn.com
-127.0.0.1 ntp.msn.com
-127.0.0.1 web.vortex.data.microsoft.com
-127.0.0.1 browser.events.data.msn.com
+||pipe.aria.microsoft.com^
+||assets.msn.com^
+||ntp.msn.com^
+||web.vortex.data.microsoft.com^
+||browser.events.data.msn.com^
