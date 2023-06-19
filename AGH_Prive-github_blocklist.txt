@@ -1,4 +1,3 @@
-! Block diverse Browser Edge trackers.
 ||pipe.aria.microsoft.com^
 ||assets.msn.com^
 ||ntp.msn.com^
